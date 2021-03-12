@@ -31,13 +31,12 @@ N ≤ 109.
 Sample
 
 Input
- 	
-Output
  
 2
 10 5 2
 10 7 6
 
+Output
   
 Case #1: 15
 Case #2: 12

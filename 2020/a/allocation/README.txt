@@ -22,8 +22,6 @@ Test set 2
 Sample
 
 Input
- 	
-Output
  
 3
 4 100
@@ -33,6 +31,7 @@ Output
 3 300
 999 999 999
 
+Output
   
 Case #1: 2
 Case #2: 3
